@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+}
+
+@media (max-width: 800px){
+    .red-car{
+        width: 50%;
+        display: block;
+        margin: 0 auto;
+        
+    }
+
+    .red-car-container{
+        text-align: center;
+        margin: 0 auto;
+        
+    }
+
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.red-car{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    
+}
+.red-car-container{
+    text-align: center;
+    margin: 0 auto;
+}

@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 40px;
+}
+
+@media (min-width: 800px){
+    .red-car{
+        width: 50%;
+        display: block;
+        margin: 0 auto;
+        
+    }
+
+    .red-car-container{
+        text-align: center;
+        margin: 0 auto;
+        
+    }
+
+}
+
+div{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.oneImage{
+    width: 20%;
+    height: 20%;
+
+}
+
+.twoImage{
+    width: 20%;
+    height: 20%;
+    
+}
+
+p{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+div{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.threeImage{
+    width: 20%;
+    height: 20%;
+
+}
+
+.fourImage{
+    width: 20%;
+    height: 20%;
+    
+}
+

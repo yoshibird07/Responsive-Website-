@@ -1,0 +1,51 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0;
+
+
+}
+
+li{
+    border: 1px solid black;
+    text-align: center;
+    background-color: red;
+    padding: 20px 20px;
+    
+}
+
+a{
+    color: white;
+}
+
+/* .history{
+    align-items: flex-start;
+} */
+
+p{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 80px;
+}
+.red-car{
+    width: 100%;
+}
+
+@media (min-width: 800px){
+    .red-car{
+        width: 50%;
+        display: block;
+        margin: 0 auto;
+        
+    }
+
+    .red-car-container{
+        text-align: center;
+        margin: 0 auto;
+        
+    }
+
+}
+
+
